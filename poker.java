@@ -1,5 +1,6 @@
 //学号：19010500043 姓名：李星辉
 //学号：19010100160 姓名：陈腾
+//二人讨论后完成，github不大熟悉，不会创建合作项目，故由一人提交，还望谅解
 import java.util.*;
 public class poker{
     public static void main (String[] args) {
