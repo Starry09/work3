@@ -1,5 +1,5 @@
-//学号：19010500043
-//姓名：李星辉
+//学号：19010500043 姓名：李星辉
+//学号：19010100160 姓名：陈腾
 import java.util.*;
 public class poker{
     public static void main (String[] args) {
